@@ -36,7 +36,7 @@ public class ParcelTest {
     assertEquals(72, testParcel.getVolume());
   }
   @Test
-  public void Parcel_isShipping_expected() {
+  public void Parcel_isShipping_expected_28_8() {
     Parcel testParcel = new Parcel(3,4,6,2,2);
     double expected = 28.8;
     assertEquals(28, (int) testParcel.getShipping());

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ParcelTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-04-25T20:48:46" hostname="epicodus-31.local" time="0.002">
+<testsuite name="ParcelTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-04-25T20:56:59" hostname="epicodus-31.local" time="0.002">
   <properties/>
   <testcase name="Parcel_isVolume_72" classname="ParcelTest" time="0.001"/>
   <testcase name="Parcel_isDimensionAndWeight_true" classname="ParcelTest" time="0.0"/>
-  <testcase name="Parcel_isLength_3" classname="ParcelTest" time="0.001"/>
+  <testcase name="Parcel_isLength_3" classname="ParcelTest" time="0.0"/>
   <testcase name="Parcel_isWidth_4" classname="ParcelTest" time="0.0"/>
   <testcase name="Parcel_isHeight_6" classname="ParcelTest" time="0.0"/>
   <testcase name="Parcel_isWeight_2" classname="ParcelTest" time="0.0"/>
-  <testcase name="Parcel_isShipping_expected" classname="ParcelTest" time="0.0"/>
+  <testcase name="Parcel_isShipping_expected_28_8" classname="ParcelTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
